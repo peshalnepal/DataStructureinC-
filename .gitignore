@@ -1,0 +1,11 @@
+# Ignore .dist directory
+.dist/
+
+# Ignore .vscode directory
+.vscode/
+
+# Ignore test.cpp file
+test.cpp
+
+# Ignore files and directories named 'test'
+test
