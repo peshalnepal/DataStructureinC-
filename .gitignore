@@ -5,7 +5,7 @@
 .vscode/
 
 # Ignore test.cpp file
-test.cpp
+Data_Structure/test.cpp
 
 # Ignore files and directories named 'test'
-test
+Data_Structure/test
